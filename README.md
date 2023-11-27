@@ -10,8 +10,8 @@ This repo has the code example for the book.
 | :-----: | ------------------------------------------------------------- |:---------:|
 |         |                  **Part I: The Java Language**                |           |
 |   01    | The History and Evolution of Java                             |     ✅     |
-|   02    | An Overview of Java                                           |           |
-|   03    | Data Types, Variables, and Arrays                             |           |
+|   02    | An Overview of Java                                           |     ✅     |
+|   03    | Data Types, Variables, and Arrays                             |     ✅     |
 |   04    | Operators                                                     |           |
 |   05    | Control Statements                                            |           |
 |   06    | Introducing Classes                                           |           |
