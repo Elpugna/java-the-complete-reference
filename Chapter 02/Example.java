@@ -1,7 +1,6 @@
 /*
-- Page 27 - Chapter 2 -
-This is a simple Java program.
-Call this file "Example.java".
+  - 01 - Page 27
+  This is a simple Java program.
 */
 class Example {
   // Your program begins with a call to main().
