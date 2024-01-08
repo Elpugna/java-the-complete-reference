@@ -14,7 +14,7 @@ This repo has the code example for the book.
 |   03    | Data Types, Variables, and Arrays                             |     ✅    |
 |   04    | Operators                                                     |     ✅    |
 |   05    | Control Statements                                            |     ✅    |
-|   06    | Introducing Classes                                           |           |
+|   06    | Introducing Classes                                           |     ✅    |
 |   07    | A Close Look at Methods and Classes                           |           |
 |   08    | Inheritance                                                   |           |
 |   09    | Packages and Interfaces                                       |           |
