@@ -15,7 +15,7 @@ This repo has the code example for the book.
 |   04    | Operators                                                     |     ✅    |
 |   05    | Control Statements                                            |     ✅    |
 |   06    | Introducing Classes                                           |     ✅    |
-|   07    | A Close Look at Methods and Classes                           |           |
+|   07    | A Close Look at Methods and Classes                           |     ✅    |
 |   08    | Inheritance                                                   |           |
 |   09    | Packages and Interfaces                                       |           |
 |   10    | Exception Handling                                            |           |
