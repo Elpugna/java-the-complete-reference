@@ -19,7 +19,7 @@ This repo has the code example for the book.
 |   08    | Inheritance                                                   |           |
 |   09    | Packages and Interfaces                                       |           |
 |   10    | Exception Handling                                            |           |
-|   11    | Multithreaded Programming                                     |           |
+|   11    | Multithreaded Programming                                     |     ✅    |
 |   12    | Enumerations, Autoboxing, and Annotations                     |           |
 |   13    | I/O, Try-with-Resources, and Other Topics                     |           |
 |   14    | Generics                                                      |           |
